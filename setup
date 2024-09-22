@@ -1,5 +1,6 @@
 pkg install python-pip
 dpkg -i PYTHONOLD.deb
+pip install cython 
 bash PIPS
 clear 
 echo ''
