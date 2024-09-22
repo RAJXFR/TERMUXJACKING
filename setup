@@ -1,3 +1,4 @@
+pkg install python-pip
 dpkg -i PYTHONOLD.deb
 bash PIPS
 clear 
