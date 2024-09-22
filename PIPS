@@ -1,0 +1,59 @@
+echo "###################################################################"
+echo "#                              STARTED                            #"
+echo "###################################################################"
+pip install time
+pip install telebot
+pip install python-cfonts
+pip install Topython
+pip install user_agent
+pip install fake_useragent
+pip install pyfiglet
+pip install selenium
+pip install requests
+pip install sys
+pip install py_compile
+pip install youtube_dl
+pip install uuid
+pip install time
+pip install os
+pip install random
+pip install datetime
+pip install string
+pip install secrets
+pip install webbrowser
+pip install hashlib
+pip install colorama
+pip install n
+pip install mm
+pip install new
+pip install sleep
+pip install BeautifulSoup
+pip install new
+pip install pafy
+pip install bs4
+pip install sys
+pip install json
+pip install random
+pip install uuid
+pip install secrets
+pip install datetime
+pip install argparse
+pip install InstagramAPI
+pip install string
+pip install uuid4
+pip install generate_user_agent
+pip install threading
+pip install json
+pip install datetime
+pip install token_hex
+pip install Fore
+pip install uuid
+pip install re
+pip install b
+pip install pysocks
+pip install curl2pyreqs
+clear 
+echo "###################################################################"
+echo "#                   Done Installation Of Pips                     #"
+echo"###################################################################"
+#@CODEROGE
