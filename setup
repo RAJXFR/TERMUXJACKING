@@ -1,6 +1,3 @@
-apt update && apt upgrade
-pkg install git
-git clone 
 dpkg -i PYTHONOLD.deb
 python PIP.py
 echo 'Done Installing Python And Installing Pips Enjoy By @CODEROGE'
